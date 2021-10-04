@@ -23,7 +23,6 @@ const NavBar = () => {
                     
                     </Nav>
                     <Nav>
-                        <NavLink className="text-decoration-none fs-4 px-3" activeStyle={activeStyle} to="/deets">Log in</NavLink>
                         <NavLink className = "text-decoration-none fs-4 px-3" activeStyle={activeStyle} to = "/memes" ><Link to="/login"><FontAwesomeIcon icon={faUser}size="1x" /> </Link></NavLink>
                     </Nav>
                 </Navbar.Collapse>

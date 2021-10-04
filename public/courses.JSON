@@ -1,7 +1,7 @@
 [{
         "id": "1",
         "name": "Programming for Everybody (Getting Started with Python)",
-        "insttitution": "MichiganX",
+        "institute": "MichiganX",
         "language": "English",
         "subject": " Computer Science",
         "Price": 150,
@@ -11,7 +11,7 @@
     {
         "id": "2",
         "name": "Computer Science 101",
-        "insttitution": "StanfordOnline",
+        "institute": "StanfordOnline",
         "language": "English",
         "subject": "Computer Science",
         "Price": 3082,
@@ -21,7 +21,7 @@
     {
         "id": "3",
         "name": "Introduction to Cloud Development with HTML5, CSS3, and JavaScript",
-        "insttitution": "IBM",
+        "institute": "IBM",
         "language": "English",
         "subject": " Computer Science",
         "Price": 1607,
@@ -31,7 +31,7 @@
     {
         "id": "4",
         "name": "Python Basics for Data Science",
-        "insttitution": "IBM",
+        "institute": "IBM",
         "language": "English",
         "subject": "Data Analysis & Statistics",
         "Price": 2906,
@@ -41,7 +41,7 @@
     {
         "id": "5",
         "name": "Introduction to Project Management",
-        "insttitution": " AdelaideX",
+        "institute": " AdelaideX",
         "language": "English",
         "subject": "Business & Management",
         "Price": 1180,
@@ -51,7 +51,7 @@
     {
         "id": "6",
         "name": "Data Literacy Foundations",
-        "insttitution": "RITx",
+        "institute": "RITx",
         "language": "English",
         "subject": " Data Analysis & Statistics",
         "Price": 3762,
@@ -61,7 +61,7 @@
     {
         "id": "7",
         "name": "Empathy and Emotional Intelligence at Work",
-        "insttitution": " BerkeleyX",
+        "institute": " BerkeleyX",
         "language": "English",
         "subject": "Business & Management",
         "Price": 3007,
@@ -71,7 +71,7 @@
     {
         "id": "8",
         "name": "Data Science: Machine Learning",
-        "insttitution": "HarvardX",
+        "institute": "HarvardX",
         "language": "Portugiz",
         "subject": " Data Analysis & Statistics",
         "Price": 1688,
@@ -81,7 +81,7 @@
     {
         "id": "9",
         "name": "Introduction to Data Science",
-        "insttitution": "IBM",
+        "institute": "IBM",
         "language": "English",
         "subject": " Data Analysis & Statistics",
         "Price": 2247,
@@ -91,7 +91,7 @@
     {
         "id": "10",
         "name": "JavaScript Introduction",
-        "insttitution": "W3Cx",
+        "institute": "W3Cx",
         "language": "English",
         "subject": "Coumputer Science",
         "Price": 1716,
@@ -101,7 +101,7 @@
     {
         "id": "11",
         "name": "Programación para todos",
-        "insttitution": "MichiganX",
+        "institute": "MichiganX",
         "language": "Español",
         "subject": "Computer Science",
         "Price": 1574,
@@ -111,7 +111,7 @@
     {
         "id": "12",
         "name": "AI for Everyone: Master the Basics",
-        "insttitution": "IBM",
+        "institute": "IBM",
         "language": "English",
         "subject": "Computer Science",
         "Price": 3684,
@@ -121,17 +121,17 @@
     {
         "id": "13",
         "name": "CS50's Introduction to Game Development",
-        "insttitution": "HarvardX",
+        "institute": "HarvardX",
         "language": "Italic",
         "subject": "Computer Science",
         "Price": 2105,
-        "picture": "http://placehold.it/32x32",
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/967eee29-87e8-4f2d-9257-a1b38ec07e85-00b9597528dd.small.jpg",
         "details": "Learn about the development of 2D and 3D interactive games in this hands-on course, as you explore the design of games such as Super Mario Bros., Pokémon, Angry Birds, and more."
     },
     {
         "id": "14",
         "name": "CS50's Introduction to Computer Science",
-        "insttitution": " HarvardX",
+        "institute": " HarvardX",
         "language": "English",
         "subject": " Computer Science",
         "Price": 2215,
@@ -141,7 +141,7 @@
     {
         "id": "15",
         "name": "Data Science: R Basics",
-        "insttitution": ": HarvardX",
+        "institute": ": HarvardX",
         "language": "English",
         "subject": "Data Analysis & Statistics",
         "Price": 1314,
@@ -151,7 +151,7 @@
     {
         "id": "16",
         "name": "Fundamentals of Artisan Business Development",
-        "insttitution": "SmithsonianX",
+        "institute": "SmithsonianX",
         "language": "Հայերեն",
         "subject": "Art & Culture",
         "Price": 2430,

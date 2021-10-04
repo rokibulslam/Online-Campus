@@ -5,7 +5,8 @@ import { Col, Form, InputGroup, Row } from 'react-bootstrap';
 const Login = () => {
     return (
         <div>
-            <Form>
+            <h1 className="m-5">Login Form</h1>
+            <Form className="m-5">
             <Row className="mb-3">
                 <Form.Group as={Col} controlId="formGridEmail">
                 <Form.Label>Email</Form.Label>
@@ -52,7 +53,7 @@ const Login = () => {
                 <Form.Check type="checkbox" label="Check me out" />
             </Form.Group>
 
-            <Button variant="primary" type="submit">
+            <Button className="btn btn-primary" type="submit">
                 Submit
             </Button>
             </Form>

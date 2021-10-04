@@ -7,7 +7,7 @@ const Footer = () => {
     const twitter = <FontAwesomeIcon icon={faTwitter}size="3x" />
     const instgaram = <FontAwesomeIcon icon={faInstagram}size="3x" />
     return (
-        <div div className = "mt-5 p-5 footer text-white" >
+        <div div className = "mb-0 mt-5 p-5 footer text-white" >
             <div div className = "d-flex mb-5 container align-items-center flex-column" >
                 <div>
                     <h1>Online Campus</h1>  

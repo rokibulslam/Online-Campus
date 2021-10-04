@@ -1,0 +1,12 @@
+.about-banner {
+    background-image: url("../../Images/University.jpg"),
+        linear-gradient(rgba(0, 0, 0, 0.021), rgba(0, 0, 0, 0.788));
+    height: 800px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
