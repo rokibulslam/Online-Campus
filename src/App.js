@@ -25,14 +25,15 @@ function App() {
           <Route path="/courses">
             <Courses></Courses>
           </Route>
-          <Route path="*">
-            <Error></Error>
-          </Route>
+          
           <Route path="/partner">
               <Partners></Partners>
           </Route>
           <Route path="/about">
               <AboutUs></AboutUs>
+          </Route>
+          <Route path="*">
+            <Error></Error>
           </Route>
         </Switch>
         <Footer></Footer>

@@ -10,7 +10,7 @@ const TopCourses = () => {
             .then(data => setCourses(data))
     }, [])
     return (
-        <div div className = "top-courses p-5 my-5" >
+        <div div className = "top-courses p-5 " >
             <div className="container">
             <h1>Explore All Courses</h1>
             <div className="row">

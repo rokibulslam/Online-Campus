@@ -7,7 +7,7 @@ const Banner = () => {
   return (
     <div className="banner-container ">
       <div className="">
-        <div className="row d-flex banner align-items-center justify-content-center">
+        <div className="row d-flex m-0 banner align-items-center justify-content-center">
           <div className="col-md-6">
             <h1 className="title">Hello <br/> <span className="text-danger">Students</span>
             </h1>
