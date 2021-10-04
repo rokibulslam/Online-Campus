@@ -13,9 +13,10 @@ const Footer = () => {
                     <h1>Online Campus</h1>  
                 </div>
                 <div>
-                    <span className="px-2 ">{facebook}</span>
-                    <span className="px-2">{instgaram}</span>
-                    <span className="px-2">{twitter}</span>
+                    <a className="px-2" href="https://www.facebook.com/" >{facebook}</a>
+                    <a className="px-2" href="https://www.facebook.com/" >{instgaram}</a>
+                    <a className="px-2"  href="https://www.facebook.com/">{twitter}</a>
+                    
                 </div>
                 <div className="row">
                     <div>

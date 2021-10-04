@@ -16,7 +16,7 @@ const TopCourses = () => {
             <h1 className="fs-1 fw-bolder">Explore Top Four Course </h1>
             <div className="row">
             {
-                coursess.slice(0, 4).map(course => <div className="col-md-3 col-sm-12 my-3">
+                coursess.slice(0, 4).map(course => <div key={course.id} className="col-md-3 col-sm-12 my-3">
                     <Card className="h-100 w-100 shadow-lg rounded rounded-3 card">
                         <Card.Img variant="top" src={course.picture} />
                         <Card.Body>

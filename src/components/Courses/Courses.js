@@ -19,7 +19,7 @@ const Courses = () => {
             <h1 className="fw-light text-start fs-1">Find a top degree that fits your life</h1>
             <div className="row">
             {
-                coursess.map(course => <div className="col-md-3 col-sm-12 my-3">
+                coursess.map(course => <div key={course.id} className="col-md-3 col-sm-12 my-3">
                     <Card className="h-100 w-100 shadow-lg rounded rounded-3 card">
                         <Card.Img variant="top" src={course.picture} />
                         <Card.Body>
