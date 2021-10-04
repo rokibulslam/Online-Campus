@@ -1,7 +1,7 @@
 ### My Site Name : Online Campus
 # Getting Started Online Campus React App
 
-Here is mY Live site Link [Create React App](https://react-project-shetu.netlify.app/).
+Here is mY Live site Link [Online Campus](https://react-project-shetu.netlify.app/).
 
 ## About This Projects
 
