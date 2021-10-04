@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Universities = () => {
     return (
-        <div className="m-5">
+        <div className="m-5 overflow-hidden">
             <div className="row">
                 <div className="col-md-3"> <img src="https://prod-discovery.edx-cdn.org/organization/logos/2a73d2ce-c34a-4e08-8223-83bca9d2f01d-2cc8854c6fee.png" alt="" /></div>
                 <div className="col-md-3"><img src="https://prod-discovery.edx-cdn.org/organization/logos/44022f13-20df-4666-9111-cede3e5dc5b6-2cc39992c67a.png" alt="" /></div>
