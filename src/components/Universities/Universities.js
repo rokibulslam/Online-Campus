@@ -11,7 +11,6 @@ const Universities = () => {
                 <div className="col-md-3"><img src="https://prod-discovery.edx-cdn.org/organization/logos/3f0d28e5-eeb4-4e0f-9617-39546a3df0c8-1bfe1d50b12f.png" alt="" /></div>
             </div>
             <Link to="/courses">
-            
                 <h1 className="text-black text-decoration-none pt-5 fs-3 fw-light"> Learn From Direct Universities...</h1>
             </Link>
         </div>

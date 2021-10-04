@@ -1,6 +1,7 @@
 import React from 'react';
 import img from '../../Images/partners.jpg'
 import './Partner.css'
+
 const Partners = () => {
     return (
         <div className="container ">

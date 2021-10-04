@@ -3,7 +3,8 @@ import { Container, Nav, Navbar} from 'react-bootstrap';
 import {  Link, NavLink } from 'react-router-dom';
 import './Navbar.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faUser, faBookOpen } from '@fortawesome/free-solid-svg-icons'
+import { faUser, faBookOpen } from '@fortawesome/free-solid-svg-icons';
+
 const NavBar = () => {
     const activeStyle={
             fontWeight: "bold",

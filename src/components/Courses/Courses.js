@@ -10,7 +10,6 @@ const Courses = () => {
             .then(res => res.json())
             .then(data=> setCourses(data))
     }, [])
-    console.log(coursess)
     return (
         
             
