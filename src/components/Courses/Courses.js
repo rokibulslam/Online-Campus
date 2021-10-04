@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Card } from 'react-bootstrap';
+import Footer from '../Footer/Footer';
+import NavBar from '../NavBar/NavBar';
 import TopCourses from '../TopCourses/TopCourses';
 import './Courses.css'
 
@@ -12,7 +14,9 @@ const Courses = () => {
     }, [])
     console.log(coursess)
     return (
-        <div className="courses m-0 p-5">
+        
+            
+            <div className="courses m-0 p-5">
             <div className="container">
             <h1>Explore All Courses</h1>
             <div className="row">
@@ -32,7 +36,8 @@ const Courses = () => {
                 }
             </div>
         </div>
-        </div>
+            </div>
+            
     );
 };
 

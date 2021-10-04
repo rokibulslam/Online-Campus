@@ -1,33 +1,32 @@
 import React from 'react';
 import { Container, Nav, Navbar} from 'react-bootstrap';
-import { Link, NavLink } from 'react-router-dom';
+import {  NavLink } from 'react-router-dom';
+import './Navbar.css'
 
 const NavBar = () => {
-    return (
-        <Navbar className="sticky-top" collapseOnSelect expand="lg" bg="dark" variant="dark">
-        <Container>
-        <Navbar.Brand className="fs-3" Link="/home">Online-Campus</Navbar.Brand>
-        <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-        <Navbar.Collapse id="responsive-navbar-nav">
-            <Nav className="me-auto">
-            <Link className="text-decoration-none fs-3 p-3" to="/home">Home</Link>
-            <Link className="text-decoration-none fs-3 p-3" to="/courses">Courses</Link>
-            <Link className="text-decoration-none fs-3 p-3" to="/partner">Partners</Link>
-            <Link className="text-decoration-none fs-3 p-3" to="/about">About Us</Link>
-            
-            </Nav>
-            <Nav>
-            <Link className="text-decoration-none fs-3 p-3" to="#deets">Log in</Link>
-            <Link Link className = "text-decoration-none fs-3 p-3"
-            eventKey = {
-                2
+    const activeStyle={
+            fontWeight: "bold",
+            color: "red"
             }
-            to = "#memes" >
-                Profile
-            </Link>
-            </Nav>
-        </Navbar.Collapse>
-        </Container>
+    return (
+        <Navbar className="sticky-top navbar" collapseOnSelect expand="lg"  variant="dark">
+            <Container>
+                <Navbar.Brand className="fs-4 ">Online-Campus</Navbar.Brand>
+                <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+                <Navbar.Collapse id="responsive-navbar-nav">
+                    <Nav className="me-auto">
+                        <NavLink className="text-decoration-none  fs-4 px-3" activeStyle={activeStyle} to="/home" >Home</NavLink>
+                        <NavLink className="text-decoration-none  fs-4 px-3" activeStyle={activeStyle} to="/courses" >Courses</NavLink>
+                        <NavLink className="text-decoration-none fs-4 px-3" activeStyle={activeStyle} to="/partner">Partners</NavLink>
+                        <NavLink className="text-decoration-none fs-4 px-3" activeStyle={activeStyle} to="/about">About Us</NavLink>
+                    
+                    </Nav>
+                    <Nav>
+                        <NavLink className="text-decoration-none fs-4 px-3" activeStyle={activeStyle} to="/deets">Log in</NavLink>
+                        <NavLink className = "text-decoration-none fs-4 px-3" activeStyle={activeStyle} to = "/memes" >Profile</NavLink>
+                    </Nav>
+                </Navbar.Collapse>
+            </Container>
         </Navbar>
     );
 };

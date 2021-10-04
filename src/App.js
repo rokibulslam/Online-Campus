@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App ">
       <Router>
-        <NavBar></NavBar>
+        <NavBar />
         <Switch>
           <Route exact path ="/">
               <Home></Home>
@@ -25,7 +25,6 @@ function App() {
           <Route path="/courses">
             <Courses></Courses>
           </Route>
-          
           <Route path="/partner">
               <Partners></Partners>
           </Route>
@@ -36,7 +35,7 @@ function App() {
             <Error></Error>
           </Route>
         </Switch>
-        <Footer></Footer>
+        <Footer />
       </Router>
     </div>
   );
