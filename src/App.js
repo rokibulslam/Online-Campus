@@ -7,6 +7,7 @@ import Courses from './components/Courses/Courses';
 import Error from './components/Error/Error';
 import Footer from './components/Footer/Footer';
 import Home from './components/Home/Home';
+import Login from './components/Login.js/Login';
 import NavBar from './components/NavBar/NavBar';
 import Partners from './components/Partners/Partners';
 
@@ -30,6 +31,9 @@ function App() {
           </Route>
           <Route path="/about">
               <AboutUs></AboutUs>
+          </Route>
+          <Route path="/login">
+            <Login></Login>
           </Route>
           <Route path="*">
             <Error></Error>

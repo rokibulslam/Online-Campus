@@ -40,122 +40,122 @@
     },
     {
         "id": "5",
-        "name": "Stephenson",
-        "insttitution": "Mitchell",
-        "language": "Banks",
-        "subject": "Shelton",
+        "name": "Introduction to Project Management",
+        "insttitution": " AdelaideX",
+        "language": "English",
+        "subject": "Business & Management",
         "Price": 1180,
-        "picture": "http://placehold.it/32x32",
-        "details": "Thompson"
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/fa4317f9-e35c-4c7a-b5ef-a14afa1b356d-564b2787e478.small.jpeg",
+        "details": "This Python course provides a beginner-friendly introduction to Python for Data Science. Practice through lab exercises, and you'll be ready to create your first Python scripts on your own!"
     },
     {
         "id": "6",
-        "name": "Hickman",
-        "insttitution": "Blair",
-        "language": "Vega",
-        "subject": "Lancaster",
+        "name": "Data Literacy Foundations",
+        "insttitution": "RITx",
+        "language": "English",
+        "subject": " Data Analysis & Statistics",
         "Price": 3762,
-        "picture": "http://placehold.it/32x32",
-        "details": "Murphy"
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/f5862e7f-0f90-424b-a2b5-413d3e15f569-722fcbf96ac7.small.jpeg",
+        "details": "In Data Literacy Foundations, you will learn how critical thinking is an essential data literacy skill in today’s data-driven world. You’ll begin by considering how you use data every day"
     },
     {
         "id": "7",
-        "name": "Holman",
-        "insttitution": "Decker",
-        "language": "Hoover",
-        "subject": "Stanley",
+        "name": "Empathy and Emotional Intelligence at Work",
+        "insttitution": " BerkeleyX",
+        "language": "English",
+        "subject": "Business & Management",
         "Price": 3007,
-        "picture": "http://placehold.it/32x32",
-        "details": "Sosa"
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/0e575a39-da1e-4e33-bb3b-e96cc6ffc58e-8372a9a276c1.small.png",
+        "details": "Learn research-based skills to strengthen empathy and trust, improve collaboration, and create more innovative, productive, and satisfying experiences at work."
     },
     {
         "id": "8",
-        "name": "Porter",
-        "insttitution": "Head",
-        "language": "Ortiz",
-        "subject": "Pacheco",
+        "name": "Data Science: Machine Learning",
+        "insttitution": "HarvardX",
+        "language": "Portugiz",
+        "subject": " Data Analysis & Statistics",
         "Price": 1688,
-        "picture": "http://placehold.it/32x32",
-        "details": "Gould"
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/7e5958e8-d709-41ab-8f8c-4339f7a733c9-bbb3b4ab9455.small.jpg",
+        "details": "Build a movie recommendation system and learn the science behind one of the most popular and successful data science techniques."
     },
     {
         "id": "9",
-        "name": "William",
-        "insttitution": "Kaufman",
-        "language": "Terrell",
-        "subject": "Mills",
+        "name": "Introduction to Data Science",
+        "insttitution": "IBM",
+        "language": "English",
+        "subject": " Data Analysis & Statistics",
         "Price": 2247,
-        "picture": "http://placehold.it/32x32",
-        "details": "Wall"
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/9bd10bfb-a8cd-4907-a26d-37fe3ea74919-84d6f99154c1.small.png",
+        "details": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!"
     },
     {
         "id": "10",
-        "name": "Marshall",
-        "insttitution": "Ferguson",
-        "language": "Estes",
-        "subject": "Noel",
+        "name": "JavaScript Introduction",
+        "insttitution": "W3Cx",
+        "language": "English",
+        "subject": "Coumputer Science",
         "Price": 1716,
-        "picture": "http://placehold.it/32x32",
-        "details": "Austin"
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/4c70ad9b-9602-49af-bf00-83fa4bf47708-dc4566d15250.small.jpg",
+        "details": "Learn JavaScript, a Web development programming language, to add interactivity to your Web pages, and become an expert Web developer."
     },
     {
         "id": "11",
-        "name": "Sharpe",
-        "insttitution": "Harmon",
-        "language": "Martin",
-        "subject": "Fitzpatrick",
+        "name": "Programación para todos",
+        "insttitution": "MichiganX",
+        "language": "Español",
+        "subject": "Computer Science",
         "Price": 1574,
-        "picture": "http://placehold.it/32x32",
-        "details": "Hancock"
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/bcf6db1c-0a69-42d1-b830-425d81863eb6-82347756370a.small.png",
+        "details": "Este curso en línea es una introducción  a la programación en Python. Aprenderás sobre las variables, la ejecución condicional, la ejecución repetida y cómo usamos las funciones."
     },
     {
         "id": "12",
-        "name": "Livingston",
-        "insttitution": "Barr",
-        "language": "Gonzalez",
-        "subject": "Manning",
+        "name": "AI for Everyone: Master the Basics",
+        "insttitution": "IBM",
+        "language": "English",
+        "subject": "Computer Science",
         "Price": 3684,
-        "picture": "http://placehold.it/32x32",
-        "details": "Dunlap"
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/f11c9289-596e-4c46-a9cb-318052f259ae-0b7656599f64.small.jpeg",
+        "details": "Learn what Artificial Intelligence (AI) is by understanding its applications and key concepts including machine learning, deep learning and neural networks."
     },
     {
         "id": "13",
-        "name": "Watts",
-        "insttitution": "Nichols",
-        "language": "Andrews",
-        "subject": "Fuentes",
+        "name": "CS50's Introduction to Game Development",
+        "insttitution": "HarvardX",
+        "language": "Italic",
+        "subject": "Computer Science",
         "Price": 2105,
         "picture": "http://placehold.it/32x32",
-        "details": "Dillon"
+        "details": "Learn about the development of 2D and 3D interactive games in this hands-on course, as you explore the design of games such as Super Mario Bros., Pokémon, Angry Birds, and more."
     },
     {
         "id": "14",
-        "name": "Downs",
-        "insttitution": "Henry",
-        "language": "Hines",
-        "subject": "Burnett",
+        "name": "CS50's Introduction to Computer Science",
+        "insttitution": " HarvardX",
+        "language": "English",
+        "subject": " Computer Science",
         "Price": 2215,
-        "picture": "http://placehold.it/32x32",
-        "details": "England"
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/91f52ef3-fa3f-4934-9d19-8d5a32635cd4-d99e27f09d19.small.jpg",
+        "details": "Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches"
     },
     {
         "id": "15",
-        "name": "Johnston",
-        "insttitution": "Foley",
-        "language": "Rios",
-        "subject": "Dennis",
+        "name": "Data Science: R Basics",
+        "insttitution": ": HarvardX",
+        "language": "English",
+        "subject": "Data Analysis & Statistics",
         "Price": 1314,
-        "picture": "http://placehold.it/32x32",
-        "details": "Ewing"
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/8f8e5124-1dab-47e6-8fa6-3fbdc0738f0a-762af069070e.small.jpg",
+        "details": "The first in our Professional Certificate Program in Data Science, this course will introduce you to the basics of R programming. You can better retain R when you learn it to solve a specific problem, so"
     },
     {
         "id": "16",
-        "name": "Trevino",
-        "insttitution": "Vasquez",
-        "language": "Elliott",
-        "subject": "Carter",
+        "name": "Fundamentals of Artisan Business Development",
+        "insttitution": "SmithsonianX",
+        "language": "Հայերեն",
+        "subject": "Art & Culture",
         "Price": 2430,
-        "picture": "http://placehold.it/32x32",
-        "details": "Cain"
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/6d45894f-cca9-449a-9f25-38b15b688bfa-83595e54e39d.small.jpeg",
+        "details": "The course includes fundamental knowledge and skills an artisan needs to convert its craftsmanship from an amateur to business level. This course was delivered in the framework of the My Armenia Program of Smithsonian Institution between 2016-2020."
     }
 ]

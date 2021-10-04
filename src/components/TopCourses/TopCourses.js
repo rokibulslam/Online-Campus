@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Card } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import './TopCourses.css'
 
 const TopCourses = () => {
@@ -23,7 +24,9 @@ const TopCourses = () => {
                             <Card.Text>Subject: {course.subject}</Card.Text>
                             <Card.Text>Language: {course.language}</Card.Text>
                             <Card.Text>Price: ${course.Price}</Card.Text>
-                            <button className="btn btn-primary">Buy Now</button>
+                            <Link to="/courses">
+                                <button className="btn btn-primary">Buy Now</button>
+                            </Link>
                         </Card.Body>
                     </Card>
                     </div>)

@@ -1,7 +1,6 @@
 import React from "react";
-import NavBar from "../NavBar/NavBar";
-import img from "../../Images/Banner.jpg"
 import "./Banner.css";
+import { Link } from "react-router-dom";
 
 const Banner = () => {
   return (
@@ -15,7 +14,9 @@ const Banner = () => {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
               tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
             </p>
-            <button className="mt-3 about-btn">About Us</button>
+            <Link to="/about">
+              <button className="mt-3 about-btn">About Us</button>
+            </Link>
           </div>
                 <div className="col-md-6">
                       
