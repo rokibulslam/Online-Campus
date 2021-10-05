@@ -18,7 +18,7 @@ const Banner = () => {
             </Link>
           </div>
           <div className="col-md-6 col-sm-12">
-            <img src={img} className="rounded  pt-5 " alt="" />
+            <img src={img} className="rounded mx-2 img-fluid pt-5 " alt="" />
             <h1 className="mt-5 fw-light fs-2 "> Learn Without Limits</h1>
             <Link to="/login">
               <button className="btn-primary btn  fs-4  fw-light mx-3 mb-5">Join For Free</button>

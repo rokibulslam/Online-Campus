@@ -12,8 +12,8 @@ const Articles = () => {
                     <h4 className="text-start fw-light">Practice</h4>
                     <p className="fs-5 fw-light text-start">Demonstrating your knowledge is a critical part of learning. edX courses and programs provide a space to practice with quizzes, open response assessments, virtual environments, and more.</p>
             </div>
-            <div className="col-sm-12 col-md-6">
-                <img className="rounded-circle m-5" height="350px" width="350px" src={img} alt="" />
+            <div className="col-sm-12 col-md-6 mx-0">
+                <img className="rounded img-fluid my-5 px-0"  src={img} alt="" />
             </div>
         </div>      
         </div>
