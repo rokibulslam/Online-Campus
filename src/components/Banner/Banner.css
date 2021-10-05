@@ -23,3 +23,14 @@
     padding: 17px 34px;
     color: white;
 }
+.btn-color {
+    background-color: #4CAF50;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
