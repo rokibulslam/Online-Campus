@@ -19,15 +19,18 @@ const TopCourses = () => {
                 coursess.slice(0, 4).map(course => <div key={course.id} className="col-md-3 col-sm-12 my-3">
                     <Card className="h-100 w-100 shadow-lg rounded rounded-3 card">
                         <Card.Img variant="top" src={course.picture} />
-                        <Card.Body>
+                        <Card.Body className="d-flex flex-column justify-content-end">
                             <Card.Title className="fw-bold">{course.name}</Card.Title>
                             <Card.Text className="mb-1 fw-light"><span className="fw-bold">Subject:</span> {course.subject}</Card.Text>
                             <Card.Text className="mb-1 fw-light"><span className="fw-bold">Language:</span> {course.language}</Card.Text>
                             <Card.Text className="mb-1 fw-light"><span className="fw-bold">Institution:</span> {course.institute}</Card.Text>
                             <Card.Text><span className="fw-bold">Course Fee:</span> ${course.Price}</Card.Text>
+                            <div className="d-flex justify-content-between">
+                                <p className="m-0 btn-color  rounded-3">${course.Price}</p>
                             <Link to="/courses">
-                                <button className="btn btn-primary m-3">Buy Now</button>
+                                <button className="button mx-auto rounded-3">Enroll</button>
                             </Link>
+                            </div>
                         </Card.Body>
                     </Card>
                     </div>)

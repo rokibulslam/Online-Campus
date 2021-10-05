@@ -13,7 +13,7 @@ import Partners from './components/Partners/Partners';
 
 function App() {
   return (
-    <div className="App overflow-hidden">
+    <div className="App">
       <Router>
         <NavBar />
         <Switch>
