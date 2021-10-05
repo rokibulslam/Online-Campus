@@ -3,8 +3,8 @@ import img from '../../Images/banner_error_404.jpg'
 const Error = () => {
     return (
         <div className="container">
-            <div className=" p-5 m-5">
-            <img className="p-5 m-5 justify-content-center" src={img} alt="" />
+            <div className=" py-5 my-5">
+            <img className="py-5 my-5 img-fluid" src={img} alt="" />
         </div>
         </div>
     );
