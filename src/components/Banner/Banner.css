@@ -1,6 +1,5 @@
 .banner {
-    background-image: url("../../Images/University.jpg"),
-        linear-gradient(rgba(0, 0, 0, 0.021), rgba(0, 0, 0, 0.788));
+    background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(234, 249, 249, 0.67) 0.1%, rgba(239, 249, 251, 0.63) 90.1%);
     height: 100%;
     width: 100%;
     /* border: 1px solid red; */
@@ -12,7 +11,7 @@
 }
 
 .title {
-    color: white;
+    color: rgb(5, 5, 5);
     font-weight: bold;
     font-size: 59px;
 }

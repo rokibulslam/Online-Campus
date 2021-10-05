@@ -11,13 +11,13 @@ const Courses = () => {
             .then(data=> setCourses(data))
     }, [])
     return (
-            <div className="courses m-0 pb-5">
-            <div className="bg-secondary">
-                <h1 className="fw-light pt-5 px-5 text-white fw-light text-start fs-1 ">Find a top degree that fits your life</h1>
-                <p className="text-white pb-5 px-5 fs-4 fw-normal text-start ">Find new interests and advance career opportunities with courses in computer science, biology, engineering, architecture, data science and more.</p>
+            <div className=" m-0 ">
+            <div className="course-title">
+                <h1 className="fw-light pt-5 px-5 fw-light text-start fs-1 ">Find A Top Degree That Fits Your Life</h1>
+                <p className="pb-5 mb-0 px-5 fs-4 fw-normal text-start ">Find new interests and advance career opportunities with courses in computer science, biology, engineering, architecture, data science and more.</p>
             </div>
+            <div className="courses pt-5">
             <div className="container">
-                
             <div className="row">
             {
                 coursess.map(course => <div key={course.id} className="col-md-3 col-sm-12 my-3">
@@ -36,6 +36,7 @@ const Courses = () => {
                 }
             </div>
         </div>
+            </div>
             </div>
             
     );
