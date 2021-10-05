@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f306316.chunk.css",
+    "main.js": "/static/js/main.4da21c11.chunk.js",
+    "main.js.map": "/static/js/main.4da21c11.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6682d44d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6682d44d.js.map",
+    "static/css/2.c1256375.chunk.css": "/static/css/2.c1256375.chunk.css",
+    "static/js/2.8a4165c5.chunk.js": "/static/js/2.8a4165c5.chunk.js",
+    "static/js/2.8a4165c5.chunk.js.map": "/static/js/2.8a4165c5.chunk.js.map",
+    "static/js/3.f0768c14.chunk.js": "/static/js/3.f0768c14.chunk.js",
+    "static/js/3.f0768c14.chunk.js.map": "/static/js/3.f0768c14.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.6f306316.chunk.css.map": "/static/css/main.6f306316.chunk.css.map",
+    "static/js/2.8a4165c5.chunk.js.LICENSE.txt": "/static/js/2.8a4165c5.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/static/media/University.fea52354.jpg",
+    "static/media/ai.d34af7bd.jpg": "/static/media/ai.d34af7bd.jpg",
+    "static/media/banner_error_404.3eb42a14.jpg": "/static/media/banner_error_404.3eb42a14.jpg",
+    "static/media/computer-removebg-preview.54858e7b.png": "/static/media/computer-removebg-preview.54858e7b.png",
+    "static/media/partners.7715907d.jpg": "/static/media/partners.7715907d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6682d44d.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.8a4165c5.chunk.js",
+    "static/css/main.6f306316.chunk.css",
+    "static/js/main.4da21c11.chunk.js"
+  ]
+}

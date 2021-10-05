@@ -1,0 +1,161 @@
+[{
+        "id": "1",
+        "name": "Programming for Everybody (Getting Started with Python)",
+        "institute": "MichiganX",
+        "language": "English",
+        "subject": " Computer Science",
+        "Price": 150,
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/911175d0-6724-4276-a058-c7b052773dd1-aba3108f3ab9.small.png",
+        "details": "This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python. The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course."
+    },
+    {
+        "id": "2",
+        "name": "Computer Science 101",
+        "institute": "StanfordOnline",
+        "language": "English",
+        "subject": "Computer Science",
+        "Price": 3082,
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/05f61d04-5acc-452b-9c34-6d447af6437f-7a7861d50d40.small.png",
+        "details": "CS101 is a self-paced course that teaches the essential ideas of Computer Science for a zero-prior-experience audience. Computers can appear very complicated, but in reality, computers work within just a few, simple patterns. CS101 demystifies and brings those patterns to life, which is useful for anyone using computers today."
+    },
+    {
+        "id": "3",
+        "name": "Introduction to Cloud Development with HTML5, CSS3, and JavaScript",
+        "institute": "IBM",
+        "language": "English",
+        "subject": " Computer Science",
+        "Price": 1607,
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/ae17a348-78ed-496e-a0b7-a1c7098a3ad0-ce63b370631f.small.jpeg",
+        "details": "Learn the key tools and programming languages to bootstrap your career as a Cloud Developer. Get started with web development using HTML5, CSS3, JavaScript and GitHub."
+    },
+    {
+        "id": "4",
+        "name": "Python Basics for Data Science",
+        "institute": "IBM",
+        "language": "English",
+        "subject": "Data Analysis & Statistics",
+        "Price": 2906,
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/381a0046-5d78-4790-8776-74620d59f48e-e2e7f4677ce2.small.jpeg",
+        "details": "This Python course provides a beginner-friendly introduction to Python for Data Science. Practice through lab exercises, and you'll be ready to create your first Python scripts on your own!"
+    },
+    {
+        "id": "5",
+        "name": "Introduction to Project Management",
+        "institute": " AdelaideX",
+        "language": "English",
+        "subject": "Business & Management",
+        "Price": 1180,
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/fa4317f9-e35c-4c7a-b5ef-a14afa1b356d-564b2787e478.small.jpeg",
+        "details": "This Python course provides a beginner-friendly introduction to Python for Data Science. Practice through lab exercises, and you'll be ready to create your first Python scripts on your own!"
+    },
+    {
+        "id": "6",
+        "name": "Data Literacy Foundations",
+        "institute": "RITx",
+        "language": "English",
+        "subject": " Data Analysis & Statistics",
+        "Price": 3762,
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/f5862e7f-0f90-424b-a2b5-413d3e15f569-722fcbf96ac7.small.jpeg",
+        "details": "In Data Literacy Foundations, you will learn how critical thinking is an essential data literacy skill in today’s data-driven world. You’ll begin by considering how you use data every day"
+    },
+    {
+        "id": "7",
+        "name": "Empathy and Emotional Intelligence at Work",
+        "institute": " BerkeleyX",
+        "language": "English",
+        "subject": "Business & Management",
+        "Price": 3007,
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/0e575a39-da1e-4e33-bb3b-e96cc6ffc58e-8372a9a276c1.small.png",
+        "details": "Learn research-based skills to strengthen empathy and trust, improve collaboration, and create more innovative, productive, and satisfying experiences at work."
+    },
+    {
+        "id": "8",
+        "name": "Data Science: Machine Learning",
+        "institute": "HarvardX",
+        "language": "Portugiz",
+        "subject": " Data Analysis & Statistics",
+        "Price": 1688,
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/7e5958e8-d709-41ab-8f8c-4339f7a733c9-bbb3b4ab9455.small.jpg",
+        "details": "Build a movie recommendation system and learn the science behind one of the most popular and successful data science techniques."
+    },
+    {
+        "id": "9",
+        "name": "Introduction to Data Science",
+        "institute": "IBM",
+        "language": "English",
+        "subject": " Data Analysis & Statistics",
+        "Price": 2247,
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/9bd10bfb-a8cd-4907-a26d-37fe3ea74919-84d6f99154c1.small.png",
+        "details": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!"
+    },
+    {
+        "id": "10",
+        "name": "JavaScript Introduction",
+        "institute": "W3Cx",
+        "language": "English",
+        "subject": "Coumputer Science",
+        "Price": 1716,
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/4c70ad9b-9602-49af-bf00-83fa4bf47708-dc4566d15250.small.jpg",
+        "details": "Learn JavaScript, a Web development programming language, to add interactivity to your Web pages, and become an expert Web developer."
+    },
+    {
+        "id": "11",
+        "name": "Programación para todos",
+        "institute": "MichiganX",
+        "language": "Español",
+        "subject": "Computer Science",
+        "Price": 1574,
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/bcf6db1c-0a69-42d1-b830-425d81863eb6-82347756370a.small.png",
+        "details": "Este curso en línea es una introducción  a la programación en Python. Aprenderás sobre las variables, la ejecución condicional, la ejecución repetida y cómo usamos las funciones."
+    },
+    {
+        "id": "12",
+        "name": "AI for Everyone: Master the Basics",
+        "institute": "IBM",
+        "language": "English",
+        "subject": "Computer Science",
+        "Price": 3684,
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/f11c9289-596e-4c46-a9cb-318052f259ae-0b7656599f64.small.jpeg",
+        "details": "Learn what Artificial Intelligence (AI) is by understanding its applications and key concepts including machine learning, deep learning and neural networks."
+    },
+    {
+        "id": "13",
+        "name": "CS50's Introduction to Game Development",
+        "institute": "HarvardX",
+        "language": "Italic",
+        "subject": "Computer Science",
+        "Price": 2105,
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/967eee29-87e8-4f2d-9257-a1b38ec07e85-00b9597528dd.small.jpg",
+        "details": "Learn about the development of 2D and 3D interactive games in this hands-on course, as you explore the design of games such as Super Mario Bros., Pokémon, Angry Birds, and more."
+    },
+    {
+        "id": "14",
+        "name": "CS50's Introduction to Computer Science",
+        "institute": " HarvardX",
+        "language": "English",
+        "subject": " Computer Science",
+        "Price": 2215,
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/91f52ef3-fa3f-4934-9d19-8d5a32635cd4-d99e27f09d19.small.jpg",
+        "details": "Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches"
+    },
+    {
+        "id": "15",
+        "name": "Data Science: R Basics",
+        "institute": ": HarvardX",
+        "language": "English",
+        "subject": "Data Analysis & Statistics",
+        "Price": 1314,
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/8f8e5124-1dab-47e6-8fa6-3fbdc0738f0a-762af069070e.small.jpg",
+        "details": "The first in our Professional Certificate Program in Data Science, this course will introduce you to the basics of R programming. You can better retain R when you learn it to solve a specific problem, so"
+    },
+    {
+        "id": "16",
+        "name": "Fundamentals of Artisan Business Development",
+        "institute": "SmithsonianX",
+        "language": "Հայերեն",
+        "subject": "Art & Culture",
+        "Price": 2430,
+        "picture": "https://prod-discovery.edx-cdn.org/media/course/image/6d45894f-cca9-449a-9f25-38b15b688bfa-83595e54e39d.small.jpeg",
+        "details": "The course includes fundamental knowledge and skills an artisan needs to convert its craftsmanship from an amateur to business level. This course was delivered in the framework of the My Armenia Program of Smithsonian Institution between 2016-2020."
+    }
+]
